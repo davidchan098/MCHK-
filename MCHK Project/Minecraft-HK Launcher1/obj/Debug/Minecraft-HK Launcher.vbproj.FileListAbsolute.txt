@@ -1,0 +1,10 @@
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\bin\Debug\Minecraft-HK Launcher.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\bin\Debug\Minecraft-HK Launcher.exe
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\bin\Debug\Minecraft-HK Launcher.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\bin\Debug\Minecraft-HK Launcher.xml
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\obj\Debug\Minecraft_HK_Launcher.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\obj\Debug\Minecraft_HK_Launcher.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\obj\Debug\Minecraft-HK Launcher.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\obj\Debug\Minecraft-HK Launcher.exe
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\obj\Debug\Minecraft-HK Launcher.xml
+C:\Users\User\AppData\Local\Temporary Projects\Minecraft-HK Launcher\obj\Debug\Minecraft-HK Launcher.pdb
