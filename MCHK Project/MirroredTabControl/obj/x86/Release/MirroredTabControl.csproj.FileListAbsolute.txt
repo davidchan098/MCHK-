@@ -1,0 +1,3 @@
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\MirroredTabControl\bin\Release\MirroredTabControl.dll
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\MirroredTabControl\obj\x86\Release\MirroredTabControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\MirroredTabControl\obj\x86\Release\MirroredTabControl.dll

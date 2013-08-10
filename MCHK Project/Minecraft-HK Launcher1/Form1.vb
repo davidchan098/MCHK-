@@ -64,6 +64,6 @@ Public Class Form1
     End Function
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
         GetAccountStatus("USERNAME", "PASSWORD")
-        Process.Start()
+        'Process.Start()
     End Sub
 End Class

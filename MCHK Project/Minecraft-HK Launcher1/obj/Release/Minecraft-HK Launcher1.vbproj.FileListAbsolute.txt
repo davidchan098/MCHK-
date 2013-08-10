@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\bin\Release\Minecraft-HK Launcher1.exe.config
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\bin\Release\Minecraft-HK Launcher1.exe
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\bin\Release\Minecraft-HK Launcher1.pdb
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\bin\Release\Minecraft-HK Launcher1.xml
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\bin\Release\MirroredTabControl.dll
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft-HK Launcher1.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft_HK_Launcher.About.resources
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft_HK_Launcher.Form1.resources
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft_HK_Launcher.HOME.resources
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft_HK_Launcher.Resources.resources
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft_HK_Launcher.Server_List.resources
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft-HK Launcher1.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft-HK Launcher1.exe
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft-HK Launcher1.xml
+C:\Users\user\Documents\GitHub\MCHK-\MCHK Project\Minecraft-HK Launcher1\obj\Release\Minecraft-HK Launcher1.pdb
